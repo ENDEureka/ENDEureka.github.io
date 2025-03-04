@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E. Chu Kochen Honors College, Zhejiang University, 2026(expected)
+  * Major in : Artificial Intelligence
+  * Average score : 3.77/4.3
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024 - Spring 2025: **31st SIGKDD Conference on Knowledge Discovery and Data Mining - Datasets and Benchmarks Track** 
+  * Project Name: *T3Set: A Multimodal Dataset with Targeted Suggestions for LLM-based Virtual Coach in Table Tennis Training*
+  * Zhejiang University
+  * Duties includes: 3rd Author; Dataset construction and part of model designing
+  * Supervisor: Ji Ma
+* Spring 2024 - Spring 2025(expected): **Student Research Training Program - National Innovation Project**
+  * Project Name: 
+  * Zhejiang University
+  * Duties includes: Dataset Construction
+  * Supervisor: Xiao Xie
+* Summer 2024: 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
